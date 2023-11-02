@@ -10,7 +10,11 @@
     "city": "mumbai",
     "state": "Maharshtra",
     "country": "India",
-    "website": "http://www.abc.com/"
+    "website": "http://www.abc.com/",
+    "_geoloc": {
+      "lat": 40.639751,
+      "lng": -73.778925
+    }
   },
   {
     "name": "Boost Mobile - LG Tribute HD 4G LTE with 16GB Memory Prepaid Cell Phone - White",
@@ -23,7 +27,11 @@
     "city": "Pune",
     "state": "Maharshtra",
     "country": "India",
-    "website": "http://www.abc.com/"
+    "website": "http://www.abc.com/",
+    "_geoloc": {
+      "lat": 45.639751,
+      "lng": -83.778925
+    }
   },
   {
     "name": "AT&T GoPhone - Alcatel Ideal 4G LTE with 8GB Memory Prepaid Cell Phone - Slate Blue",
@@ -36,7 +44,11 @@
     "city": "Pune",
     "state": "Maharshtra",
     "country": "India",
-    "website": "http://www.abc.com/"
+    "website": "http://www.abc.com/",
+    "_geoloc": {
+      "lat": 30.639751,
+      "lng": -63.778925
+    }
   },
   {
     "name": "Cricket Wireless - Alcatel OneTouch Flint 4G with 16GB Memory Prepaid Cell Phone",
@@ -49,7 +61,11 @@
     "city": "Pune",
     "state": "Maharshtra",
     "country": "India",
-    "website": "http://www.abc.com/"
+    "website": "http://www.abc.com/",
+    "_geoloc": {
+      "lat": 20.639751,
+      "lng": -53.778925
+    }
   },
   {
     "name": "BLU - Life XL with 8GB Memory Cell Phone (Unlocked) - Black",
@@ -62,6 +78,10 @@
     "city": "Pune",
     "state": "Maharshtra",
     "country": "India",
-    "website": "http://www.abc.com/"
+    "website": "http://www.abc.com/",
+    "_geoloc": {
+      "lat": 10.639751,
+      "lng": -43.778925
+    }
   }
 ]
