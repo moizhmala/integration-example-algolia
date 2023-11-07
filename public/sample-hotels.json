@@ -1,8 +1,9 @@
 [
   {
+    "content_type": "Dining",
     "name": "AT&T GoPhone - Samsung Galaxy Express 3 4G LTE with 8GB Memory Prepaid Cell Phone",
     "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
-    "teaserimage": "https:\/\/cdn-demo.algolia.com\/bestbuy-0118\/4984700_sb.jpg",
+    "teaserimage": "https://images.unsplash.com/photo-1427830180740-12146c79a1a3",
     "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "brand": "AT&T GoPhone",
@@ -19,9 +20,10 @@
     ]
   },
   {
+    "content_type": "Hotels",
     "name": "Boost Mobile - LG Tribute HD 4G LTE with 16GB Memory Prepaid Cell Phone - White",
     "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
-    "teaserimage": "https:\/\/cdn-demo.algolia.com\/bestbuy-0118\/4984700_sb.jpg",
+    "teaserimage": "https://images.unsplash.com/photo-1427830228531-ccf2652188b7",
     "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "brand": "AT&T GoPhone",
@@ -38,9 +40,10 @@
     ]
   },
   {
+    "content_type": "Nightlife",
     "name": "AT&T GoPhone - Alcatel Ideal 4G LTE with 8GB Memory Prepaid Cell Phone - Slate Blue",
     "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
-    "teaserimage": "https:\/\/cdn-demo.algolia.com\/bestbuy-0118\/4984700_sb.jpg",
+    "teaserimage": "https://images.unsplash.com/photo-1427830574887-32e5702033b0",
     "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "brand": "AT&T GoPhone",
@@ -57,9 +60,10 @@
     ]
   },
   {
+    "content_type": "Spas",
     "name": "Cricket Wireless - Alcatel OneTouch Flint 4G with 16GB Memory Prepaid Cell Phone",
     "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
-    "teaserimage": "https:\/\/cdn-demo.algolia.com\/bestbuy-0118\/4984700_sb.jpg",
+    "teaserimage": "https://images.unsplash.com/photo-1428606381429-22224991fb0c",
     "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "brand": "AT&T GoPhone",
@@ -76,9 +80,10 @@
     ]
   },
   {
+    "content_type": "Attractions",
     "name": "BLU - Life XL with 8GB Memory Cell Phone (Unlocked) - Black",
     "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
-    "teaserimage": "https:\/\/cdn-demo.algolia.com\/bestbuy-0118\/4984700_sb.jpg",
+    "teaserimage": "https://images.unsplash.com/photo-1429042007245-890c9e2603af",
     "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
     "brand": "AT&T GoPhone",
@@ -91,6 +96,66 @@
       {
         "lat": 10.639751,
         "lng": -43.778925
+      }
+    ]
+  },
+  {
+    "content_type": "Perks",
+    "name": "BLU - Life XL with 8GB Memory Cell Phone (Unlocked) - Black",
+    "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
+    "teaserimage": "https://images.unsplash.com/photo-1443402041265-fe79bb6b1651",
+    "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
+    "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
+    "brand": "AT&T GoPhone",
+    "postalcode": "868273",
+    "city": "Pune",
+    "state": "Maharshtra",
+    "country": "India",
+    "website": "http://www.abc.com/",
+    "_geoloc": [
+      {
+        "lat": 10.639751,
+        "lng": -43.778925
+      }
+    ]
+  },
+  {
+    "content_type": "Dining",
+    "name": "BLU - Life XL with 8GB Memory Cell Phone (Unlocked) - Black",
+    "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
+    "teaserimage": "https://images.unsplash.com/photo-1415226181422-279a51ca056e",
+    "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
+    "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
+    "brand": "AT&T GoPhone",
+    "postalcode": "868273",
+    "city": "Pune",
+    "state": "Maharshtra",
+    "country": "India",
+    "website": "http://www.abc.com/",
+    "_geoloc": [
+      {
+        "lat": 10.639751,
+        "lng": -43.778925
+      }
+    ]
+  },
+  {
+    "content_type": "Nightlife",
+    "name": "AT&T GoPhone - Alcatel Ideal 4G LTE with 8GB Memory Prepaid Cell Phone - Slate Blue",
+    "teasertext": "The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet.",
+    "teaserimage": "https://images.unsplash.com/photo-1450885413713-176921f199b2",
+    "shortdescription": "Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
+    "description": "Grab your data and your minutes as you go with this Samsung Galaxy 3 Express smartphone. The 4.5-inch Super AMOLED screen offers a dazzling display for texting, gaming or scrolling the Internet. A microSD slot lets you add up to 128GB storage, and this Samsung Galaxy 3 Express smartphone has a 5-megapixel camera for taking and sharing pictures.",
+    "brand": "AT&T GoPhone",
+    "postalcode": "868273",
+    "city": "Pune",
+    "state": "Maharshtra",
+    "country": "India",
+    "website": "http://www.abc.com/",
+    "_geoloc": [
+      {
+        "lat": 30.639751,
+        "lng": -63.778925
       }
     ]
   }
